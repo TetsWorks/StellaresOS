@@ -439,8 +439,7 @@ StellaresOS — Copyright (C) 2026
 
 Este programa é software livre: você pode redistribuí-lo e/ou modificá-lo
 sob os termos da Licença Pública Geral GNU conforme publicada pela Free
-Software Foundation, na versão 3 da Licença, ou (a seu critério) qualquer
-versão posterior.
+Software Foundation, na versão 3 da Licença
 
 Este programa é distribuído na esperança de que seja útil, mas SEM
 NENHUMA GARANTIA; sem mesmo a garantia implícita de COMERCIABILIDADE ou
@@ -457,5 +456,5 @@ Veja o arquivo [`LICENSE`](LICENSE) para o texto completo da licença.
 ---
 
 <p align="center">
-  Feito com ❤️ e Assembly por contribuidores do StellaresOS
+  Feito pela TetsWorks
 </p>
